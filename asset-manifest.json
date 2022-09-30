@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-less7-task2/static/css/main.ccd07e36.css",
+    "main.js": "/ra-less7-task2/static/js/main.732c1c56.js",
+    "index.html": "/ra-less7-task2/index.html",
+    "main.ccd07e36.css.map": "/ra-less7-task2/static/css/main.ccd07e36.css.map",
+    "main.732c1c56.js.map": "/ra-less7-task2/static/js/main.732c1c56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccd07e36.css",
+    "static/js/main.732c1c56.js"
+  ]
+}
